@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the 9 problem sets required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
